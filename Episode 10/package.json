@@ -13,6 +13,6 @@
     "random-puppy": "^1.1.0",
     "simple-youtube-api": "^5.0.2",
     "snekfetch": "^4.0.4",
-    "ytdl-core": "^0.25.2"
+    "ytdl-core": "^0.29.7"
   }
 }
